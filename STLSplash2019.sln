@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLSplash2019", "STLSplash2019.csproj", "{C875DFD8-1D02-4D24-BC34-7FE09A3F3813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C875DFD8-1D02-4D24-BC34-7FE09A3F3813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C875DFD8-1D02-4D24-BC34-7FE09A3F3813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C875DFD8-1D02-4D24-BC34-7FE09A3F3813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C875DFD8-1D02-4D24-BC34-7FE09A3F3813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6611EFAB-25D2-49F4-939B-0A607FC5DF54}
+	EndGlobalSection
+EndGlobal
